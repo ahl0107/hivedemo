@@ -9,3 +9,7 @@ Hive Demo是结合了Carrier SDK与Hive SDK与一体的Android 文件浏览传�
 > * 侧边栏（功能整合）
 > * 好友列表页面（可实现对某个好友设置禁止传输文件）
 > * 其他页面（扫一扫添加好友，个人信息展示，）
+
+-------
+
+### [version 0.0.3](https://org.modao.cc/app/01de9334bfc450d64a4d525ff8f2a8d4)
